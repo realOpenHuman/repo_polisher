@@ -48,7 +48,7 @@ The tool is designed to handle both individual repos and bulk updates across all
 Clone the repository and install the required Python dependencies.
 
 ```bash
-git clone https://github.com/OpenHuman/repo_polisher.git
+git clone https://github.com/realOpenHuman/repo_polisher.git
 cd repo_polisher
 pip install requests python-dotenv openai
 ```
